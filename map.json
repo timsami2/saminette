@@ -2460,7 +2460,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/14_Basement_32x32.png",
+         "image":"..\/..\/..\/src\/assets\/14_Basement_32x32.png",
          "imageheight":1666,
          "imagewidth":544,
          "margin":1,
@@ -2473,7 +2473,7 @@
         {
          "columns":8,
          "firstgid":785,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/Celiana-grounds-walls-square.png",
+         "image":"..\/..\/..\/src\/assets\/Celiana-grounds-walls-square.png",
          "imageheight":544,
          "imagewidth":272,
          "margin":1,
@@ -2486,7 +2486,7 @@
         {
          "columns":16,
          "firstgid":913,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/Celiana-interiors-1.png",
+         "image":"..\/..\/..\/src\/assets\/Celiana-interiors-1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -2499,7 +2499,7 @@
         {
          "columns":16,
          "firstgid":1169,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/Celiana-interiors-2.png",
+         "image":"..\/..\/..\/src\/assets\/Celiana-interiors-2.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -2512,7 +2512,7 @@
         {
          "columns":16,
          "firstgid":1425,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/Celiana-interiors-3.png",
+         "image":"..\/..\/..\/src\/assets\/Celiana-interiors-3.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -2525,7 +2525,7 @@
         {
          "columns":16,
          "firstgid":1681,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/Celiana-interiors-4.png",
+         "image":"..\/..\/..\/src\/assets\/Celiana-interiors-4.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -2538,7 +2538,7 @@
         {
          "columns":4,
          "firstgid":1937,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/Celiana-interiors-food.png",
+         "image":"..\/..\/..\/src\/assets\/Celiana-interiors-food.png",
          "imageheight":204,
          "imagewidth":136,
          "margin":1,
@@ -2551,7 +2551,7 @@
         {
          "columns":6,
          "firstgid":1961,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/OGA-tables-white.png",
+         "image":"..\/..\/..\/src\/assets\/OGA-tables-white.png",
          "imageheight":170,
          "imagewidth":204,
          "margin":1,
@@ -2564,7 +2564,7 @@
         {
          "columns":13,
          "firstgid":1991,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/wa_tilesets_ag.png",
+         "image":"..\/..\/..\/src\/assets\/wa_tilesets_ag.png",
          "imageheight":1258,
          "imagewidth":442,
          "margin":1,
@@ -2577,7 +2577,7 @@
         {
          "columns":18,
          "firstgid":2472,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/wa_tilesets_ag_v2.png",
+         "image":"..\/..\/..\/src\/assets\/wa_tilesets_ag_v2.png",
          "imageheight":986,
          "imagewidth":612,
          "margin":1,
@@ -2590,7 +2590,7 @@
         {
          "columns":4,
          "firstgid":2994,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/wa-bureaux-blancs.png",
+         "image":"..\/..\/..\/src\/assets\/wa-bureaux-blancs.png",
          "imageheight":136,
          "imagewidth":136,
          "margin":1,
@@ -2603,7 +2603,7 @@
         {
          "columns":12,
          "firstgid":3010,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/wa-escaliers.png",
+         "image":"..\/..\/..\/src\/assets\/wa-escaliers.png",
          "imageheight":340,
          "imagewidth":408,
          "margin":1,
@@ -2616,7 +2616,7 @@
         {
          "columns":40,
          "firstgid":3130,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/walls_floors_edited.png",
+         "image":"..\/..\/..\/src\/assets\/walls_floors_edited.png",
          "imageheight":1972,
          "imagewidth":1360,
          "margin":1,
@@ -2629,7 +2629,7 @@
         {
          "columns":10,
          "firstgid":5450,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/wa-mobilier1.png",
+         "image":"..\/..\/..\/src\/assets\/wa-mobilier1.png",
          "imageheight":340,
          "imagewidth":340,
          "margin":1,
@@ -2642,7 +2642,7 @@
         {
          "columns":10,
          "firstgid":5550,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/wa-mobilier2.png",
+         "image":"..\/..\/..\/src\/assets\/wa-mobilier2.png",
          "imageheight":340,
          "imagewidth":340,
          "margin":1,
@@ -2655,7 +2655,7 @@
         {
          "columns":11,
          "firstgid":5650,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/wa-tables-chaise-2.png",
+         "image":"..\/..\/..\/src\/assets\/wa-tables-chaise-2.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":1,
@@ -2668,7 +2668,7 @@
         {
          "columns":11,
          "firstgid":5771,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/wa-tables-chaises.png",
+         "image":"..\/..\/..\/src\/assets\/wa-tables-chaises.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":1,
@@ -2681,7 +2681,7 @@
         {
          "columns":6,
          "firstgid":5892,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/watileset.png",
+         "image":"..\/..\/..\/src\/assets\/watileset.png",
          "imageheight":544,
          "imagewidth":204,
          "margin":1,
@@ -2704,7 +2704,7 @@
         {
          "columns":2,
          "firstgid":5988,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/tapis-vert.png",
+         "image":"..\/..\/..\/src\/assets\/tapis-vert.png",
          "imageheight":68,
          "imagewidth":68,
          "margin":1,
@@ -2717,7 +2717,7 @@
         {
          "columns":3,
          "firstgid":5992,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/baby-foot-96x96.png",
+         "image":"..\/..\/..\/src\/assets\/baby-foot-96x96.png",
          "imageheight":102,
          "imagewidth":102,
          "margin":1,
@@ -2730,7 +2730,7 @@
         {
          "columns":1,
          "firstgid":6001,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/green-chair.png",
+         "image":"..\/..\/..\/src\/assets\/green-chair.png",
          "imageheight":34,
          "imagewidth":34,
          "margin":1,
@@ -2743,7 +2743,7 @@
         {
          "columns":32,
          "firstgid":6002,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/LPC-terrains.png",
+         "image":"..\/..\/..\/src\/assets\/LPC-terrains.png",
          "imageheight":1088,
          "imagewidth":1088,
          "margin":1,
@@ -2889,7 +2889,7 @@
         {
          "columns":13,
          "firstgid":7026,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/WA_User_Interface.png",
+         "image":"..\/..\/..\/src\/assets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -2902,7 +2902,7 @@
         {
          "columns":6,
          "firstgid":7299,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/sami.png",
+         "image":"..\/..\/..\/src\/assets\/sami.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -2915,7 +2915,7 @@
         {
          "columns":10,
          "firstgid":7311,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/logos.png",
+         "image":"..\/..\/..\/src\/assets\/logos.png",
          "imageheight":64,
          "imagewidth":320,
          "margin":0,
@@ -2928,7 +2928,7 @@
         {
          "columns":6,
          "firstgid":7331,
-         "image":"..\/..\/..\/Desktop\/workadventure-map-starter-kit-3.1.4\/src\/assets\/1666259241822.jpeg",
+         "image":"..\/..\/..\/src\/assets\/1666259241822.jpeg",
          "imageheight":200,
          "imagewidth":200,
          "margin":0,
